@@ -1,0 +1,5 @@
+﻿Public Class PurchaseOrder
+    Private Sub PurchaseOrder_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+End Class
